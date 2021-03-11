@@ -1,4 +1,3 @@
-# README SER347- Introdução à Programação com Dados Geoespaciais
 
 ## Exercício 1 - 10/03/2020
 
